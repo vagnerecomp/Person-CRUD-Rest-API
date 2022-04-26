@@ -1,0 +1,1 @@
+Inicial project os a CRUD API REST of people using Node.js, Express, MongoDB, nodemon and Mongoose.
